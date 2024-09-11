@@ -1,0 +1,939 @@
+/* CSS Document */
+
+body
+
+{
+
+	margin:0px ;
+
+	padding:0px;
+
+}
+
+/*header css start here*/
+
+
+#header {
+
+	background: url(../img/headerBg.jpg) repeat-x;
+
+	height: 137px;
+
+}
+
+
+
+#header #utility-menu {
+
+	background-color: #FFFF66;
+
+	padding-left: 800px;
+
+	background: url(../img/header.jpg) no-repeat;
+
+	height: 96px;
+
+	width: 124px;
+
+	margin:0px ;
+
+	
+
+}
+
+
+
+#header #utility-menu li {
+
+	display: inline;
+
+	padding: 0px 10px 0px 5px;
+
+	font: Tahoma;
+
+	font-size: 12px;
+
+	margin:0px;
+
+}
+
+
+
+#header #utility-menu li a {
+
+	text-decoration: none;
+
+	color: #FFFFFF;
+
+}
+
+
+
+#header #utility-menu li a:hover {
+
+	text-decoration: underline;
+
+}
+
+
+
+#header #header-menu {
+
+	background: url(../img/topmenu-bg.jpg) repeat-x;
+
+	height: 34px;
+
+	top: 97px;
+
+	padding: 7px 0px 0px 0px;
+
+	margin:0px ;
+
+}
+
+
+
+#header #header-menu li {
+
+	padding: 6px 25px 7px 25px;
+
+	float:left;
+
+	border-right: 1px solid #E1DECE;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+}
+
+
+
+#header #header-menu li a {
+
+	text-decoration: none;
+
+	color: #000000;
+
+}
+
+
+
+#header #header-menu li :hover {
+
+	color: #014b6c;
+
+	text-decoration: none;
+
+}
+
+#contact{
+
+	padding: 7px 25px 7px 25px;
+
+	border-right: 0px dotted #CCC !important;
+
+	display: inline;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+}
+
+
+
+/*header css end here*/
+
+/*footer css start from here*/
+
+
+
+#footer {
+
+	background: #E4E4E4;
+
+	color:#5194F9;
+
+	font:Tahoma, Arial, Helvetica, sans-serif;
+
+	border-top:1px solid #CCCCCC;
+
+	margin:0px;
+
+}
+
+
+
+#footerp1 { 
+
+	padding: 5px;
+
+	color:#000000;
+
+	text-align: left;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	font:Tahoma, Arial, Helvetica, sans-serif;
+
+	margin:0px;
+
+}
+
+
+
+#footerp2{
+
+	color:#000000;
+
+	text-align: center;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	font-family: Tahoma;
+
+	border-bottom: 1px solid #CCCCCC;
+
+	display:block;
+
+}
+
+
+
+/*footer css end from here*/
+
+/*rightmenu css start from here*/
+
+
+
+.right-box  {
+
+	vertical-align:top;
+
+	border-right:1px solid #CCCCCC;
+
+	margin:0px;
+
+	padding:0px 0px 0px 0px;
+
+	background: transparent url(../img/Right_Pane_Bg.jpg) repeat-y scroll 0 0;
+
+}
+
+.inner-page
+
+{
+
+	vertical-align:top;
+
+	border-right:1px solid #CCCCCC;
+
+	margin:0px;
+
+	padding:0px 0px 0px 20px;
+
+	color:#006699;
+
+}
+
+
+
+.right-box  h3 {
+
+	background: url(../img/qustion.gif) no-repeat;
+
+	height: 58px;
+
+	width:269px;
+
+	padding:0px 0px 0px 25px;
+
+	line-height: 2em;
+
+	margin:0px;
+
+	border-left:1px solid #787878;
+
+}
+
+.right-box  h3 span
+
+{
+
+	background:transparent url(../img/right-pane-top-icon.jpg) no-repeat scroll 3px 3px;
+
+	font-size:14px;
+
+	padding-left:25px;
+
+}
+
+.right-box ul li
+
+{
+
+	margin:0px ;
+
+	padding:0px 0px 0px 0px; 
+
+	text-align:left;
+
+}
+
+
+
+.right-box ul li a {
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	text-decoration: none;
+
+	color: #2b8bd9;
+
+	line-height:2em;
+
+	text-align:left;
+
+}
+
+
+
+.right-box ul li a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	text-decoration: none;
+
+	color: #245074;
+
+}
+
+/*#right-pane {
+
+	vertical-align:top;
+
+	border-right:1px solid #CCCCCC;
+
+	margin:0px;
+
+	padding:0px 0px 0px 28px;
+
+	background: transparent url(../img/Right_Pane_Bg.jpg) repeat-y scroll 0 0;
+
+}
+
+#right-pane ul li a {
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	text-decoration: none;
+
+	color: #2b8bd9;
+
+	line-height:2em;
+
+	text-align:left;
+
+}
+
+#right-pane ul li a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	text-decoration: none;
+
+	color: #245074;
+
+}*/
+
+/*rightmenu css end from here*/
+
+/*page css start from here*/
+
+
+
+#left-pane
+
+{
+
+	margin:0px;
+
+	padding:5px 12px 0px 12px ;
+
+}
+
+#left-pane fieldset 
+
+{
+
+	padding:0px;
+
+	margin:4px 0px 6px 0px;
+
+	text-align:left;
+
+	color:#6C889E;
+
+	font-weight:bold;
+
+	border:1px solid #CCCCCC;
+
+}
+
+
+
+
+
+#left-pane fieldset legend {
+
+	background-color: #f1f1f1;
+
+	font-weight: bold;
+
+	font-size: 15px;
+
+	padding: 0px 6px 0px 6px;
+
+	border:1px solid #999999;
+
+	color:#000000;
+
+	margin-left:10px;
+
+}
+
+
+
+#left-pane fieldset ul li
+
+{
+
+	display:inline;
+
+	
+
+}
+
+
+
+  #slogan {
+
+	color: #006699;
+
+	font-size: 18px;
+
+	font-weight: bold;
+
+}
+
+
+
+#slogancontanier
+
+{
+
+	color: #006699;
+
+	padding:10px;
+
+}
+
+
+
+#pdflink li {
+
+	display: inline;
+
+	padding: 3px;
+
+	text-align:left;
+
+}
+
+
+
+#pdflink li a {
+
+	color: #6C889E;
+
+	font-family: Tahoma;
+
+	font-size: 12px;
+
+	font-weight: bold;
+
+	font-family: sans-serif;
+
+	text-decoration: none;
+
+}
+
+
+
+#faqpage
+
+{
+
+	padding:0px;
+
+	padding:20px;
+
+	color:#006699;
+
+	font:Tahoma;
+
+}
+
+#faqpage dl dt
+
+{
+
+	font-weight:bold;
+
+	font-size:16px;
+
+	padding:15px 0px 0px 0px;
+
+}
+
+#faqpage dl dt dd
+
+{
+
+	margin:0px;
+
+	text-align:justify;
+
+}
+
+#become-a-muslim
+
+{
+
+	padding:0px;
+
+	padding:20px;
+
+	color:#006699;
+
+	font:Tahoma;
+
+}
+
+#steap
+
+{
+
+	background:url(../img/steap.gif) no-repeat 2px -13px;
+
+	width:35px;
+
+	height:50px;
+
+	float:left;
+
+	font-weight:bold;
+
+	color:#FFFFFF;
+
+}
+
+
+
+.dixbg
+
+{
+
+	background:url(../img/Disk.jpg) no-repeat 0px 0px;
+
+	height:42px;
+
+	padding:0px 0px 10px 50px;
+
+}
+
+.dixbg h4 a , .dixbg .span a
+
+{
+
+	text-decoration:none;
+
+	color:#006699;
+
+}
+
+	
+
+.dixbg h4 a:hover , .dixbg .span a:hover
+
+{
+
+	text-decoration:underline;
+
+	color:#006699;
+
+}
+
+.dixbg span
+
+{
+
+	color:#006699;
+
+}
+
+.sura-menu li a
+
+{
+
+	text-decoration:none;
+
+	color:#006699;
+
+	font-size:12px;
+
+}
+
+.sura-menu li a:hover
+
+{
+
+	text-decoration:underline;
+
+	color:#006699;
+
+	font-size:12px;
+
+}
+
+
+
+#vedioleftpane
+
+{
+
+	padding:6px;
+
+	background:#000000;
+
+}
+
+
+
+#vediorightpane
+
+{
+
+	padding:6px;
+
+}
+
+#vedioleftpane h4
+
+{
+
+	color:#D0690D;
+
+	padding:0px 0px 8px 0px !important;
+
+}
+
+#vedioleftpane p
+
+{
+
+	color:#FFFFFF;
+
+	line-height:1.2em;
+
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+}
+
+#rightboxtube td
+
+{
+
+	text-align:center;
+
+	background:#000000;
+
+	margin:0px ;
+
+	padding:0px;
+
+	width:153px;
+
+}
+
+#rightboxtube td p
+
+{
+
+	color:#8C5324;
+
+	font-size:13px;
+
+}
+
+.Qurantranslation fieldset legend {
+
+	background-color: #f1f1f1;
+
+	font-weight: bold;
+
+	font-size: 15px;
+
+	padding: 0px 6px 0px 6px;
+
+	border:1px solid #999999;
+
+	color:#000000;
+
+	margin-left:10px;
+
+}
+
+#top
+
+{
+
+	display:block;
+
+	text-align:right;
+
+	font-weight:bold;
+
+}
+
+#top a
+
+{
+
+	text-decoration:none;
+
+	color:#6600FF;
+
+}
+
+#top a:hover
+
+{
+
+	text-decoration:underline;
+
+	color:#6600FF;
+
+}
+
+/*page css end from here*/
+
+/*homepage round box model css start from here*/
+
+
+
+#floted {
+
+	float:left;
+
+	margin:0px;
+
+}
+
+
+
+#floted #content-box1 {
+
+	float: left;
+
+	width: 355px;
+
+	margin:0px;
+
+}
+
+
+
+#floted #content-box2 {
+
+	float: left;
+
+	width: 355px;
+
+	margin:0px;
+
+}
+
+
+
+.top-rounded-box {
+
+	width: 350px;
+
+	margin-bottom:15px;
+
+	height: 212px;
+
+	border-bottom: 1px solid #999999;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	color: #000000;
+
+}
+
+
+
+.top-rounded-box h3 {
+
+	background: url(../img/MidBoxTopMid.jpg) repeat-x;
+
+	height: 42px;
+
+	line-height: 1.5em;
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+	text-decoration: none;
+
+	color: #0f5170;
+
+	margin:0px;
+
+}
+
+
+
+.top-rounded-box h3 div {
+
+	padding-left: 17px;
+
+	background: url(../img/MidBoxTopLeft.jpg) no-repeat left top;
+
+	height: 42px;
+
+}
+
+
+
+.top-rounded-box h3 div div {
+
+	padding-right: 17px;
+
+	background: url(../img/MidBoxTopRight.jpg) no-repeat right top;
+
+	line-height: 3em;
+
+	font-size: 14px;
+
+	text-align: center;
+
+}
+
+
+
+.top-rounded-box div {
+
+	padding: 0px 0px 0px 17px;
+
+	background: url(../img/MidBoxLeftside.jpg) no-repeat left top;
+
+	height: 170px;
+
+}
+
+
+
+.top-rounded-box div div {
+
+	padding: 0px 17px 0px 0px;
+
+	background: url(../img/MidBoxRightside.jpg) no-repeat right top;
+
+}
+
+
+
+.top-rounded-box div div div {
+
+	padding: 0px;
+
+	background: url(../img/MidBoxMidBodyBg.jpg) repeat-x;
+
+}
+
+
+
+.readmore {
+
+	float: right;
+
+	width: 70px;
+
+	height: 27px;
+
+	padding-left: 20px;
+
+	background: url(../img/read-btn.jpg) no-repeat;
+
+	line-height: 2.5em;
+
+	text-decoration: none;
+
+	color: #7B2804;
+
+}
+
+
+
+.readmore:hover {
+
+	text-decoration: none;
+
+	color: #FF0000;
+
+}
+
+
+
+
+
+/*homepage round box model css end from here*/
+
+
+
+
+
+
+
+
+
+
+
+
+
